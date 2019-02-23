@@ -1,6 +1,6 @@
 body {
   color: #40514E;
-  background: #eef2f5;
+  background: #ebfffb;
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
@@ -58,7 +58,7 @@ a:hover{
   background: url('../images/tarkxankut.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
-  /*position: relative;*/
+  position: relative;
   padding-top: 100px;
 }
 
@@ -66,13 +66,10 @@ a:hover{
   margin: 100px 0;
 }
 
-
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
 }
-
-
 
 .intro{
   width: 30%; /*Instead of one wide line of text*/
